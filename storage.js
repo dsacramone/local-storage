@@ -1,11 +1,5 @@
 'use strict';
 
-/*
-*  method: setStorageValue @param group[{key:value},..]
-*  method: removeStorageValue @param keys[key,..] || string
-*/
-
-
 function Storage(name, type) {
   this.storageType = type || 'sessionStorage';
   this.storageEnabled = false;
