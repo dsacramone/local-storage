@@ -1,5 +1,5 @@
 'use strict';
-
+// just adding a test here for something
 function Storage(name, type) {
   this.storageType = type || 'sessionStorage';
   this.storageEnabled = false;
