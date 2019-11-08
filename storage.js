@@ -1,5 +1,5 @@
 'use strict';
-
+// ASHELY DO YOU SEE THIS HOMIE... IS THIS GOOD?
 function Storage(name, type) {
   this.storageType = type || 'sessionStorage';
   this.storageEnabled = false;
