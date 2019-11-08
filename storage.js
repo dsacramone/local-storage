@@ -1,4 +1,5 @@
 'use strict';
+// ANOTHER change to try and get ashley here
 // just adding a test here for something
 function Storage(name, type) {
   this.storageType = type || 'sessionStorage';
